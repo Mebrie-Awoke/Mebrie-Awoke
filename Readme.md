@@ -55,11 +55,13 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 
 
+
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mebrie-Awoke&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mebrie-Awoke&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mebrie-Awoke&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mebrie-Awoke&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
