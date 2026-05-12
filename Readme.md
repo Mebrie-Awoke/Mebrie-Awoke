@@ -1,93 +1,139 @@
+# Mebrie Awoke
 
-# Hi 👋, I'm Mebrie Awoke
+### Machine Learning Enthusiast • Generative AI Developer • Backend-Focused Full-Stack Engineer
 
-### Machine Learning Enthusiast | Generative AI Developer | Backend-Focused Full-Stack Developer
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm passionate about building AI-powered systems, scalable backend applications, and impactful software solutions.
+I am a passionate software developer focused on building intelligent systems, scalable backend architectures, and impactful AI-driven applications. My interests span across Machine Learning, Generative AI, Natural Language Processing, and Full-Stack Development.
 
-- 🎓 Information Systems student at Addis Ababa University
-- 🤖 Focused on Machine Learning, Generative AI, and Backend Engineering
-- 🌱 Currently exploring LLMs, RAG systems, and AI agents
-- 💡 Interested in solving real-world problems using AI
-- 📍 Addis Ababa, Ethiopia
+Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa University while actively building real-world AI and software engineering projects.
 
 ---
 
-## 🚀 Tech Stack
+## About Me
 
-### Programming Languages
+- 🎓 Information Systems Student at Addis Ababa University
+- 🤖 Focused on Machine Learning & Generative AI
+- 🧠 Building LLM, RAG, and AI-powered applications
+- ⚙️ Backend-focused Full-Stack Developer
+- 🌍 Based in Addis Ababa, Ethiopia
+- 🚀 Passionate about solving real-world problems through technology
+
+---
+
+## Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+
+---
 
 ### AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+---
+
+### Backend & Web
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+
+---
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
-## 🧠 Featured Projects
+# Featured Projects
 
-### 🩺 Medi 1.0 – AI Medical Chatbot
-AI-powered medical chatbot using RAG architecture and LLMs.
+## 🩺 Medi 1.0 — AI Medical Chatbot
+An AI-powered medical assistant built using Retrieval-Augmented Generation (RAG) and Large Language Models.
 
-**Tech:** Python, LangChain, ChromaDB, Embeddings, NLP
+### Key Features
+- Semantic medical document retrieval
+- Context-aware AI responses
+- Vector embedding search
+- Conversational AI interface
 
-🔗 Repo: https://github.com/Mebrie-Awoke/Complete_medicalChatbot
+**Tech Stack:** Python, LangChain, ChromaDB, NLP, LLMs
 
----
-
-### 🎵 Smart Music Recommendation System
-Content-based music recommendation system using machine learning.
-
-**Tech:** Python, Pandas, Scikit-learn
-
----
-
-### 🌱 Smart Farm AI Integrated System
-AI-powered crop disease detection system using CNNs and computer vision.
-
-**Tech:** Python, CNN, PyTorch, OpenCV
+🔗 Repository:  
+https://github.com/Mebrie-Awoke/Complete_medicalChatbot
 
 ---
 
-### 🤖 Telegram Bots
-Developed automation and utility bots including:
+## 🌱 Smart Farm AI Integrated System
+AI-based crop disease detection system using computer vision and deep learning.
+
+**Tech Stack:** Python, CNN, PyTorch, OpenCV, HTML/CSS/JavaScript
+
+🔗 Repository:  
+https://github.com/Mebrie-Awoke/Smart-Farm-AI-integrated-System
+
+---
+
+## 💼 Job Application Management System
+A backend-focused application designed for efficient applicant management and filtering.
+
+**Tech Stack:** Java, OOP, File Handling, DBMS
+
+🔗 Repository:  
+https://github.com/Mebrie-Awoke/Job-Application-java
+
+---
+
+## 🤖 Telegram Automation Bots
+Developed multiple Telegram bots for automation, translation, reminders, and community engagement.
+
+### Bots Include
 - Memo Bot
 - Amharic ↔ English Translator
-- Event Reminder Bot
+- Orthodox Program Reminder Bot
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Analytics
 
-![Mebrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mebrie-Awoke&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mebrie-Awoke&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/Mebrie-Awoke
-- Portfolio: https://mebrieawoke.netlify.app/
-- Email: mebrieawoke941@gmail.com
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mebrie-Awoke&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mebrie-Awoke&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## Current Focus
 
-I enjoy building AI systems that solve practical problems and experimenting with emerging technologies in Generative AI and Machine Learning.
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Backend System Design
+- ML Deployment & MLOps
+
+---
+
+## Connect With Me
+
+- 🌐 Portfolio: https://mebrieawoke.netlify.app/
+- 💻 GitHub: https://github.com/Mebrie-Awoke
+- 📧 Email: mebrieawoke941@gmail.com
+- 📍 Addis Ababa, Ethiopia
+
+---
+
+## Quote
+
+> “Technology becomes meaningful when it solves real human problems.”
