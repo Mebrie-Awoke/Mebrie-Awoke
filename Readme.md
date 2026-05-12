@@ -54,6 +54,41 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 
+# GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mebrie-Awoke&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mebrie-Awoke&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mebrie-Awoke&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mebrie-Awoke&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mebrie-Awoke&theme=tokyonight"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mebrie-Awoke&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mebrie-Awoke&theme=tokyonight"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mebrie-Awoke&theme=tokyonight&utcOffset=3"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mebrie-Awoke&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mebrie-Awoke&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 
 ## GitHub Analytics
