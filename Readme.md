@@ -107,7 +107,6 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 - ML Deployment & MLOps
 
 
-
 ## Connect With Me
 
 -  Portfolio: https://mebrieawoke.netlify.app/
