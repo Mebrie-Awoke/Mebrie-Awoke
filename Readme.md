@@ -96,10 +96,6 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mebrie-Awoke&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mebrie-Awoke&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 
 
 ## Current Focus
