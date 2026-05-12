@@ -40,6 +40,7 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 
 ### Backend & Web
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
