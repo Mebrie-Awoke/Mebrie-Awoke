@@ -70,11 +70,6 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mebrie-Awoke&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mebrie-Awoke&theme=tokyonight&hide_border=true"/>
-</p>
-
 <p align="center">
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mebrie-Awoke&theme=tokyonight"/>
