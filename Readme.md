@@ -80,12 +80,11 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 ## Connect With Me
 
-- 🌐 Portfolio: https://mebrieawoke.netlify.app/
-- 💻 GitHub: https://github.com/Mebrie-Awoke
-- 📧 Email: mebrieawoke941@gmail.com
-- 📍 Addis Ababa, Ethiopia
+-  Portfolio: https://mebrieawoke.netlify.app/
+- GitHub: https://github.com/Mebrie-Awoke
+- Email: mebrieawoke941@gmail.com
+- Addis Ababa, Ethiopia
 
----
 
 ## Quote
 
