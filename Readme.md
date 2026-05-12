@@ -106,7 +106,7 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 - Backend System Design
 - ML Deployment & MLOps
 
----
+
 
 ## Connect With Me
 
