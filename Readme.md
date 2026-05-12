@@ -60,20 +60,8 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 **Tech Stack:** Python, LangChain, ChromaDB, NLP, LLMs
 
-🔗 Repository:  
-https://github.com/Mebrie-Awoke/Complete_medicalChatbot
 
----
 
-## 🌱 Smart Farm AI Integrated System
-AI-based crop disease detection system using computer vision and deep learning.
-
-**Tech Stack:** Python, CNN, PyTorch, OpenCV, HTML/CSS/JavaScript
-
-🔗 Repository:  
-https://github.com/Mebrie-Awoke/Smart-Farm-AI-integrated-System
-
----
 
 ## 💼 Job Application Management System
 A backend-focused application designed for efficient applicant management and filtering.
