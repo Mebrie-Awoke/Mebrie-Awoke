@@ -37,7 +37,7 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
----
+
 
 ### Backend & Web
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -45,7 +45,7 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
----
+
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
@@ -56,22 +56,8 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 
 
-**Tech Stack:** Java, OOP, File Handling, DBMS
 
-🔗 Repository:  
-https://github.com/Mebrie-Awoke/Job-Application-java
 
----
-
-## 🤖 Telegram Automation Bots
-Developed multiple Telegram bots for automation, translation, reminders, and community engagement.
-
-### Bots Include
-- Memo Bot
-- Amharic ↔ English Translator
-- Orthodox Program Reminder Bot
-
----
 
 ## GitHub Analytics
 
