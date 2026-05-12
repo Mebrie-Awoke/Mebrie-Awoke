@@ -55,16 +55,8 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
----
 
 
-**Tech Stack:** Python, LangChain, ChromaDB, NLP, LLMs
-
-
-
-
-## 💼 Job Application Management System
-A backend-focused application designed for efficient applicant management and filtering.
 
 **Tech Stack:** Java, OOP, File Handling, DBMS
 
