@@ -85,15 +85,9 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mebrie-Awoke&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mebrie-Awoke&theme=tokyonight"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mebrie-Awoke&theme=tokyonight&utcOffset=3"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mebrie-Awoke&theme=tokyo-night&hide_border=true"/>
-</p>
+
+
 
 
 
