@@ -18,7 +18,6 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 - 🌍 Based in Addis Ababa, Ethiopia
 - 🚀 Passionate about solving real-world problems through technology
 
----
 
 ## Tech Stack
 
