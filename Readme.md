@@ -1,6 +1,6 @@
 # Mebrie Awoke
 
-### Machine Learning Enthusiast • Generative AI Developer • Backend-Focused Full-Stack Engineer
+### Machine Learning Enthusiast  • Backend-Focused Full-Stack Engineer
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
