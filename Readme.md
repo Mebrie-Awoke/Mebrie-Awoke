@@ -55,10 +55,6 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 
 
-
-
-
-
 ## GitHub Analytics
 
 <p align="center">
