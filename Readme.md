@@ -57,16 +57,6 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 ---
 
-# Featured Projects
-
-## 🩺 Medi 1.0 — AI Medical Chatbot
-An AI-powered medical assistant built using Retrieval-Augmented Generation (RAG) and Large Language Models.
-
-### Key Features
-- Semantic medical document retrieval
-- Context-aware AI responses
-- Vector embedding search
-- Conversational AI interface
 
 **Tech Stack:** Python, LangChain, ChromaDB, NLP, LLMs
 
