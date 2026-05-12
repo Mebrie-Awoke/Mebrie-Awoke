@@ -91,14 +91,6 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 </p>
 
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mebrie-Awoke&show_icons=true&theme=tokyonight" />
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mebrie-Awoke&layout=compact&theme=tokyonight" />
-</p>
-
 
 ## Current Focus
 
