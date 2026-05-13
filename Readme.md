@@ -72,7 +72,4 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 - Email: mebrieawoke941@gmail.com
 - Addis Ababa, Ethiopia
 
-
-## Quote
-
 > “Technology becomes meaningful when it solves real human problems.”
