@@ -57,7 +57,6 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 
@@ -73,7 +72,6 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 ## Connect With Me
 
 -  Portfolio: https://mebrieawoke.netlify.app/
-- GitHub: https://github.com/Mebrie-Awoke
 - Email: mebrieawoke941@gmail.com
 - Addis Ababa, Ethiopia
 
