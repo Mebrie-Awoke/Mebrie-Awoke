@@ -6,7 +6,7 @@ I am a passionate software developer focused on building intelligent systems, sc
 Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa University while actively building real-world AI and software engineering projects.
 
 
-Meb
+Me
 ## About Me
 - 🎓 Information Systems Student at Addis Ababa University
 - 🤖 Focused on Machine Learning & Generative AI
