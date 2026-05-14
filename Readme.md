@@ -40,7 +40,6 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
 
-
 ### Databases & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
