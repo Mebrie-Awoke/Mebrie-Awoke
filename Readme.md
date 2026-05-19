@@ -4,7 +4,7 @@
 I am a passionate software developer focused on building intelligent systems, scalable backend architectures, and impactful AI-driven applications. My interests span across Machine Learning, Generative AI, Natural Language Processing, and Full-Stack Development.
   s
 Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa University while actively building real-world AI and software engineering projects.
-
+ 
 ## About Me
 - 🎓 Information Systems Student at Addis Ababa University
 - 🤖 Focused on Machine Learning & Generative AI
