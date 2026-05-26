@@ -54,6 +54,9 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 
+📈 GitHub Stats <p align="center"> <img src="https://streak-stats.demolab.com?user=Mebrie-Awoke&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mebrie-Awoke&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mebrie-Awoke&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
+
+
 ## Current Focus
 
 - Large Language Models (LLMs)
