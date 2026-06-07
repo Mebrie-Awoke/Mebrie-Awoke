@@ -37,6 +37,7 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 ### Databases & Tools
