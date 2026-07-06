@@ -56,7 +56,7 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 
 ## Current Focus
-
+ 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
