@@ -23,7 +23,7 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
-
+ 
 ### AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
