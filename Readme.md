@@ -13,7 +13,7 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 - 🌍 Based in Addis Ababa, Ethiopia
 - 🚀 Passionate about solving real-world problems through technology
  
-## Tech Stack
+## Tech Stack 
  
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
