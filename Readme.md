@@ -58,6 +58,8 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mebrie-Awoke&theme=dark)](https://git.io/streak-stats)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mebrie-Awoke&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
 ## Current Focus
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
