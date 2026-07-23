@@ -54,6 +54,9 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mebrie)](https://git.io/streak-stats)
 
 ## Current Focus
 - Large Language Models (LLMs)
