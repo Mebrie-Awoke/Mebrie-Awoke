@@ -56,7 +56,7 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mebrie)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mebrie-Awoke)](https://git.io/streak-stats)
 
 ## Current Focus
 - Large Language Models (LLMs)
