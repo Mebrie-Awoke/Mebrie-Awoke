@@ -55,9 +55,6 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 ## Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mebrie-Awoke&theme=dark)](https://git.io/streak-stats)
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mebrie-Awoke&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 ## Current Focus
