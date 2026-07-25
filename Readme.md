@@ -66,7 +66,7 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mebrie-AwokeE&theme=dark&hide_border=true" />
 
 </div>
 
