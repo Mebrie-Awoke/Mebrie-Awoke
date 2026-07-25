@@ -62,11 +62,11 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mebrie-AwokeE&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mebrie-Awoke&show_icons=true&theme=dark&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mebrie-AwokeE&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mebrie-Awoke&theme=dark&hide_border=true" />
 
 </div>
 
