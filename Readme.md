@@ -10,7 +10,7 @@ Currently pursuing a Bachelor's Degree in Information Systems at Addis Ababa Uni
 - 🤖 Focused on Machine Learning & Generative AI
 - 🧠 Building LLM, RAG, and AI-powered applications
 - ⚙️ Backend-focused Full-Stack Developer
-- 🌍 Based in Addis Ababa, Ethiopia
+- 🌍 Based in Addis Ababa, Ethiopia 
 - 🚀 Passionate about solving real-world problems through technology
  
 ## Tech Stack 
